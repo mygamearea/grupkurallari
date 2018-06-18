@@ -4,17 +4,12 @@ MyGameArea.NET Bilgi Paylaşım Grup Kuralları
 1. Virüstotalsız paylaşımlar Yasaktır.
 2. Mod ve Yönetici Alımları İçin Bilgi ; Her Hafta En çok Gönderi ve yorum,begeni yapanlar arasından alıncaktır.
 3. Reklam, spam, flood içerik paylaşımı yapılamaz.
-4. Grup dili Türkçe (TR) dir. Türkçe dışında sadece
-ingilizce (EN) dili tolere edilebilir.
-5. İçerikler grup konusuyla alakalı olmak zorundadır.
-Dolaylı yoldan ilgili içerikler tolere edilebilir.
-6. Hakaret etmek, bir kullanıcıyı aşağılamak, tehdit,
-küfür v.b. gibi ifadeler kullanılamaz.
+4. Grup dili Türkçe (TR) dir. Türkçe dışında sadece, ingilizce (EN) dili tolere edilebilir.
+5. İçerikler grup konusuyla alakalı olmak zorundadır, Dolaylı yoldan ilgili içerikler tolere edilebilir.
+6. Hakaret etmek, bir kullanıcıyı aşağılamak, tehdit, küfür v.b. gibi ifadeler kullanılamaz.
 7. Link.tl gibi reklam türü gönderileri link oluşturarak paylaşmak yasaktır.
-8. Gönderiler açıklayıcı olmadığı takdirde gönderiniz 
-silinebilir.
-9. Kasten ve okumayı zorlaştırıcı ifadeler kullanılarak
-yapılan gönderiler silinebilir.
+8. Gönderiler açıklayıcı olmadığı takdirde gönderiniz, silinebilir.
+9. Kasten ve okumayı zorlaştırıcı ifadeler kullanılarak,yapılan gönderiler silinebilir.
 10. İfşa,Porno vb. paylaşım yasaktır.
 11. Hacklenilen siteleri, DDoS Saldırı Videoları vs paylaşmak yasaktır.
 12. Youtube,Grup,Sayfa,Forum vb. tanıtımları yasaktır.
@@ -28,3 +23,7 @@ yapılan gönderiler silinebilir.
 20. Grup İçerisi banlanmış üyelerin neden banlandıgını Lightshot üzerinden SS ile kanıtlamak zorundadır kanıtlamazsa yetkisi alınır.
 21. Grup İçerisi Katılım istekleri Geri çevirme vb durumlardada Lightshot üzerinden SS ile kanıtlamak zorundadır kanıtlamazsa yetkisi alınır.
 22. Grup Kurallarına Uymayan Üyeler gibi Yöneticiler ve Modlarda sorun teşkil ettigi durumda Umut Akyüz Lightshot üzerinden SS ile kanıtlarsanız yetkileri alıncaktır.
+23. Grup Kurallarına uygun şekilde, pastebin ve Github konularına faydalı olanları paylaşmak serbesttir.
+24. Modların Gönderi sabitlemesi yasaktır.
+25. Grup içerisinde yararlı olucak projeleri ve paylaşımları dosyalar bölümünden yükleyebilir kalıcı olarak durmasını saglıyabilirsiniz.
+26. Kesinlikle Faydalı ve üçretsiz projelerde Gönderi postuna dikkat çekici reklam içermicek resim eklenebilir forum,site vb. giriçek linkler yorum olarak yazılabilir.
